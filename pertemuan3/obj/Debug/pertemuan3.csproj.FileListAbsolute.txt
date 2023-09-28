@@ -1,0 +1,21 @@
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.exe.config
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.exe
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.pdb
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.csprojAssemblyReference.cache
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Form1.resources
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Properties.Resources.resources
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.csproj.GenerateResource.cache
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.csproj.CoreCompileInputs.cache
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.exe
+E:\22.61.0234\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.pdb
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.exe.config
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.exe
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.pdb
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.csproj.AssemblyReference.cache
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.csproj.SuggestedBindingRedirects.cache
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Form1.resources
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Properties.Resources.resources
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.csproj.GenerateResource.cache
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.csproj.CoreCompileInputs.cache
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.exe
+D:\kuliah difa\Semester 3\pemrog\pert3\pert3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.pdb
